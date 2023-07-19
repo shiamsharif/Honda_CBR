@@ -1,0 +1,59 @@
+/* header */
+header {
+    background-color: #969899;
+}
+
+/* hero_images */
+.small_text {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.section_heading {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+
+.section_content {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.text_white {
+    color: azure;
+}
+
+.primary_color {
+    color: #e76f51;
+}
+
+/* main section */
+/* Featured bikes grayscale */
+.img_grayscale {
+    filter: grayscale(100%);
+}
+
+/* happy customer */
+.review_stars {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Frequently Asked Questions */
+.accordion_question {
+    color: var(--dark-color);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    width: 90%
+}
+
+.button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF4b92 100%);
+    color: white;
+    border-radius: 10px;
+    padding: 9px 25px;
+    border: none;
+}

@@ -1,7 +1,8 @@
 /* header */
 header {
-    background-color: #969899;
+    background-image: linear-gradient(to bottom, #79340c 0%, #ddbfaa 100%);
 }
+
 
 /* hero_images */
 .small_text {
@@ -89,4 +90,10 @@ ul li {
     border-radius: 10px;
     padding: 9px 25px;
     border: none;
+}
+
+/* footer */
+footer {
+    background-image: linear-gradient(to bottom, #4424d1 0%, #040113 100%);
+    color: azure;
 }

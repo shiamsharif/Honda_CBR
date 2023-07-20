@@ -35,6 +35,13 @@ header {
     filter: grayscale(100%);
 }
 
+.under_line {
+    height: 1px;
+    width: 100px;
+    margin: auto;
+    background-color: #e76f51;
+}
+
 /* happy customer */
 .review_stars {
     margin: 0;
